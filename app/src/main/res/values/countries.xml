@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countires">
+        <item>Аргентина </item>
+        <item>Бразилия </item>
+        <item>Колумбия </item>
+        <item>Чили </item>
+        <item>Уругвай </item>
+        <item>Астралия </item>
+        <item>Австрия </item>
+        <item>Алжир </item>
+        <item>Азербайджан </item>
+        <item>Ангола </item>
+        <item>Армения </item>
+        <item>Афганистан </item>
+        <item>Багамы </item>
+        <item>Барбадос </item>
+        <item>Бельгия </item>
+        <item>Боливия </item>
+    </string-array>
+</resources>
